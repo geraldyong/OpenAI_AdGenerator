@@ -1,0 +1,31 @@
+electronics,appliances
+electronics,laptops and computers
+electronics,mobile phones
+electronics,televisions
+electronics,sound systems
+electronics,washing machines and dryers
+electronics,air conditioning units
+electronics,fans
+electronics,vacuum cleaners
+sports,balls
+sports,foldable bicycles
+sports,skate scooters
+sports,swimwear
+gardening,plants
+gardening,gardening supplies
+kitchenware,refrigerators
+kitchenware,ovens
+kitchenware,pots and pans
+kitchenware,utensils
+kitchenware,coffee machine
+kitchenware,dishwashers
+kitchenware,water dispensers
+furniture,sofas
+furniture,beds
+furniture,tables
+furniture,carpets
+furniture,cabinets
+lighting,lights and lamps
+toiletries,shower foam and shampoo
+toiletries,soap
+toiletries,toothbrush and toothpaste

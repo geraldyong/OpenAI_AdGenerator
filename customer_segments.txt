@@ -1,0 +1,5 @@
+student,students
+couple,young couple
+smallfam,small families
+kidsfam,families with young kids
+largfam,large families
